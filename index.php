@@ -25,7 +25,7 @@
 
         <!-- ==================== CSS INTERNAL =============================== -->
         <!-- NAV-MENU STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/nav-menu.css"/>
+        <link rel="stylesheet" type="text/css" href="/css/nav-menu.css"/>
         <!-- COOKIE BANNER STYLE SHEET -->
         <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/cookie-banner.css">
         <!-- SEARCHBAR STYLE SHEET -->
