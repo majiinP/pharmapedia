@@ -1,0 +1,37 @@
+nav{
+    width: 100%;
+    background: rgb(163, 0, 196) ;
+}
+
+ul{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0%;
+    text-align: right;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+}
+
+ul li:hover{
+    background: #2f3640;
+}
+
+ul li a{
+    color:white;
+    text-decoration: none;
+}
+
+.toggle{
+    width: 100%;
+    padding: 10px 20px;
+    background: blueviolet;
+    text-align: right;
+    box-sizing: border-box;
+    color: #ffff;
+    font-size: 30px;
+    display: none;
+}

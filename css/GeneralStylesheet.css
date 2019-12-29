@@ -1,0 +1,84 @@
+*{
+    box-sizing: content-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+html, body{
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    max-width: 1440px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(190, 93, 255);
+ }
+
+ .content{
+     max-width: 1440px;
+     margin: auto;
+ }
+
+ .wrapper{
+    min-height: 125%;
+ }
+
+ .section{
+    max-width: 1024px;
+    margin: 0 auto;
+ }
+
+ .row {
+    max-width: 1024px;
+    margin: 0 auto;
+    margin-bottom: 5%;
+}
+
+h1{
+    font-size: 500%;
+    word-spacing: 3px;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+h1::after{
+    display: block;
+    height: 2px;
+    background-color: blueviolet;
+    content: " ";
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.text-input{
+    font-size: 125%;
+    line-height: 145%;
+    width: 100%;
+}
+
+/* a {
+    text-decoration: none;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+ }
+
+ a :hover{
+    color: rgb(0, 0, 0);
+ }
+
+ .alphabet-button{
+    margin: 10% 5% 10% 5%;
+    background: rgb(95, 0, 99);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    padding: 2.5% 5% 2.5% 5%;
+    border-radius: 50%;
+ }
+
+ .alphabet-button :hover{
+    border: 5px solid rgb(141, 0, 146);
+    background: none;
+    padding: 2.5% 5% 2.5% 5%;
+    border-radius: 50%;
+} */
