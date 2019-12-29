@@ -33,7 +33,7 @@
         <!-- BUTTONS STYLE -->
         <link rel="stylesheet" type="text/css" href="/css/buttons.css">
          <!-- OVERLAY STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="/css/overlay.css">
+        <link rel="stylesheet" type="text/css" href="/css/Overlay.css">
          <!-- GENERAL STYLE SHEET -->
         <link rel="stylesheet" type="text/css" href="/css/GeneralStylesheet.css">
         <!-- FOOTER STYLE SHEET -->
