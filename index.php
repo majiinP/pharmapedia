@@ -16,7 +16,7 @@
          <script src="https://use.fontawesome.com/dc8cb5d611.js"></script>
          <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-         <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/font-awesome.min.css">
+         <link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
 
         <!-- ==================== JS INTERNAL  =============================== -->
         <script type="text/javascript" src="../js/medication-appear.js"></script>
@@ -33,7 +33,7 @@
         <!-- BUTTONS STYLE -->
         <link rel="stylesheet" type="text/css" href="../css/buttons.css">
          <!-- OVERLAY STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="../css/overlay.css">
+        <link rel="stylesheet" type="text/css" href="../css/Overlay.css">
          <!-- GENERAL STYLE SHEET -->
         <link rel="stylesheet" type="text/css" href="../css/GeneralStylesheet.css">
         <!-- FOOTER STYLE SHEET -->
