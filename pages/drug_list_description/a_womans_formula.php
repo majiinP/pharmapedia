@@ -1,7 +1,7 @@
 <?php
     if(isset($_GET['accept-cookies'])){
         setcookie('accept-cookies', 'true', time() + 31556925);
-        header('Location: ./');
+        header('Location: ./a_womans_formula.php');
     }
 ?>
 
@@ -19,6 +19,7 @@
         <link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css">
         <!-- ==================== JS INTERNAL  =============================== -->
         <script type="text/javascript" src="../../js/reponsive-menu.js"></script>
+        <script type="text/javascript" src="../../js/cookie-banner.js"></script>
         <script type="text/javascript" src="../../js/cookie-banner.js"></script>
 
         <!-- ==================== CSS INTERNAL =============================== -->
@@ -60,10 +61,10 @@
                     <i class="fa fa-bars menu" aria-hidden="true"></i>
                 </div>
                 <ul>
-                    <li><a href="../../">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Legal</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="../../index.php">Home</a></li>
+                    <li><a href="../about.php">About</a></li>
+                    <li><a href="../legal.php">Legal</a></li>
+                    <li><a href="../contact.php">Contact</a></li>
                 </ul>
             </nav>
 

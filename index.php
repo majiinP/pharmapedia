@@ -10,36 +10,36 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Pharmapedia</title>
+        <title>Pharmapendium</title>
 
          <!-- ==================== EXTERNAL SOURCES =============================== -->
          <script src="https://use.fontawesome.com/dc8cb5d611.js"></script>
          <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-         <link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
+         <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/font-awesome.min.css">
 
         <!-- ==================== JS INTERNAL  =============================== -->
-        <script type="text/javascript" src="/js/medication-appear.js"></script>
-        <script type="text/javascript" src="/js/reponsive-menu.js"></script>
-        <script type="text/javascript" src="/js/cookie-banner.js"></script>
+        <script type="text/javascript" src="../medication-encyclopedia/js/medication-appear.js"></script>
+        <script type="text/javascript" src="../medication-encyclopedia/js/reponsive-menu.js"></script>
+        <script type="text/javascript" src="../medication-encyclopedia/js/cookie-banner.js"></script>
 
         <!-- ==================== CSS INTERNAL =============================== -->
         <!-- NAV-MENU STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="/css/nav-menu.css"/>
+        <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/nav-menu.css"/>
         <!-- COOKIE BANNER STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="/css/cookie-banner.css">
+        <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/cookie-banner.css">
         <!-- SEARCHBAR STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="/css/SearchBar.css">
+        <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/SearchBar.css">
         <!-- BUTTONS STYLE -->
-        <link rel="stylesheet" type="text/css" href="/css/buttons.css">
+        <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/buttons.css">
          <!-- OVERLAY STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="/css/Overlay.css">
+        <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/overlay.css">
          <!-- GENERAL STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="/css/GeneralStylesheet.css">
+        <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/GeneralStylesheet.css">
         <!-- FOOTER STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="/css/footer.css">
+        <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/footer.css">
          <!-- MEDIA-QUERIES -->
-        <link rel="stylesheet" type="text/css" href="/css/media-queries.css">
+        <link rel="stylesheet" type="text/css" href="../medication-encyclopedia/css/media-queries.css">
 
     </head>
 
@@ -120,9 +120,9 @@
                 </div>
                 <ul>
                     <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Legal</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="pages/about.php">About</a></li>
+                    <li><a href="pages/legal.php">Legal</a></li>
+                    <li><a href="pages/contact.php">Contact</a></li>
                 </ul>
             </nav>
     
@@ -137,9 +137,9 @@
             <!-- PRESENTATION -->
             <section class="section-Title">
                 <div class="row">
-                    <H1>Welcome to Pharmapedia</H1>
+                    <H1>Welcome to Pharmapendium</H1>
                     <p class="text-input">
-                        The #1 drug online encyclopedia. This app filters and lists all of the current used medications. Simply select one of the alphabetical letters to begin your search and then scroll for your specific drug of choice.
+                        The #1 drug online encyclopedic compendium. This app filters and lists all of the current used medications. Simply select one of the alphabetical letters to begin your search and then scroll for your specific drug of choice.
                     </p>
                 </div>
             </section>
