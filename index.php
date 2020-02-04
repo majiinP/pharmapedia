@@ -226,6 +226,13 @@
                 </div>
                 <ul>
                     <li><a href="#">Home</a></li>
+                    <li><a href="#">Language</a>
+                        <ul>
+                            <li><a href="#">English</a>
+                            <li><a href="#">Français</a>
+                            <li><a href="#">Español</a>
+                        </ul>
+                    </li>
                     <li><a href="pages/about.php">About</a></li>
                     <li><a href="pages/legal.php">Legal</a></li>
                     <li><a href="pages/contact.php">Contact</a></li>
