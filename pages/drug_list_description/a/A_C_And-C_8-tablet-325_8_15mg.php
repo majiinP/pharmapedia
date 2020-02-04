@@ -10,34 +10,34 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>A womans's formula</title>
+        <title>A. C. and C. 8 - 325+8+15mg</title>
 
         <!-- ==================== FAVICON =============================== -->
-        <link rel="shortcut icon" href="../../img/favicon.ico" type="image/x-icon">
-        <link rel="icon" href="../../img/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="../../../img/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="../../../img/favicon.ico" type="image/x-icon">
         
         <!-- ==================== EXTERNAL SOURCES =============================== -->
         <script src="https://use.fontawesome.com/dc8cb5d611.js"></script>
         <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/font-awesome.min.css">
         <!-- ==================== JS INTERNAL  =============================== -->
-        <script type="text/javascript" src="../../js/reponsive-menu.js"></script>
-        <script type="text/javascript" src="../../js/cookie-banner.js"></script>
+        <script type="text/javascript" src="../../../js/reponsive-menu.js"></script>
+        <script type="text/javascript" src="../../../js/cookie-banner.js"></script>
 
         <!-- ==================== CSS INTERNAL =============================== -->
         <!-- NAV-MENU STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="../../css/nav-menu.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../css/nav-menu.css"/>
         <!-- COOKIE BANNER STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="../../css/cookie-banner.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/cookie-banner.css">
          <!-- GENERAL STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="../../css/GeneralStylesheet.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/GeneralStylesheet.css">
         <!-- MEDIA-QUERIES -->
-        <link rel="stylesheet" type="text/css" href="../../css/media-queries.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/media-queries.css">
         <!-- CARDS (MEDICATION DESCRIPTION) -->
-        <link rel="stylesheet" type="text/css" href="../../css/card-description.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/card-description.css">
         <!-- FOOTER STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="../../css/footer.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/footer.css">
 
     </head>
 
@@ -64,28 +64,28 @@
                     <i class="fa fa-bars menu" aria-hidden="true"></i>
                 </div>
                 <ul>
-                    <li><a href="../../index.php">Home</a></li>
-                    <li><a href="../about.php">About</a></li>
-                    <li><a href="../legal.php">Legal</a></li>
-                    <li><a href="../contact.php">Contact</a></li>
+                    <li><a href="../../../index.php">Home</a></li>
+                    <li><a href="../../about.php">About</a></li>
+                    <li><a href="../../legal.php">Legal</a></li>
+                    <li><a href="../../contact.php">Contact</a></li>
                 </ul>
             </nav>
 
             <div class="container">
-                <h1>A woman's formula</h1>
+                <h1>A. C. and C. 8 - 325+8+15mg</h1>
                     <br>
                     <div class="card">
-                        <iframe src="../drug_list_description/a/a_womans_formula_iframe/a_womans_formula_price.html" style="border:0px" height="100%" width="100%">
+                        <iframe src="../../drug_list_description/a/A_C_And-C_8-tablet-325_8_15mg_iframe/A_C_And-C_8-tablet-325_8_15mg_price.html" style="border:0px" height="100%" width="100%">
                         </iframe>   
                     </div>
                     
                     <div class="card">
-                        <iframe src="../drug_list_description/a/a_womans_formula_iframe/a_womans_formula_instructions.html" style="border:0px" height="100%" width="100%">
+                        <iframe src="../../drug_list_description/a/A_C_And-C_8-tablet-325_8_15mg_iframe/A_C_And-C_8-tablet-325_8_15mg_instructions.html" style="border:0px" height="100%" width="100%">
                         </iframe>
                     </div>
 
                     <div class="card">
-                        <iframe src="../drug_list_description/a/a_womans_formula_iframe/a_womans_formula_sideeffects.html" style="border:0px" height="100%" width="100%">
+                        <iframe src="../../drug_list_description/a/A_C_And-C_8-tablet-325_8_15mg_iframe/A_C_And-C_8-tablet-325_8_15mg_sideeffects.html" style="border:0px" height="100%" width="100%">
                         </iframe>
                     </div>
                 
