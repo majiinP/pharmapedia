@@ -37,7 +37,7 @@
         <!-- BUTTONS STYLE -->
         <link rel="stylesheet" type="text/css" href="../css/buttons.css">
          <!-- OVERLAY STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="../css/Overlay.css">
+        <link rel="stylesheet" type="text/css" href="../css/overlay.css">
          <!-- GENERAL STYLE SHEET -->
         <link rel="stylesheet" type="text/css" href="../css/GeneralStylesheet.css">
         <!-- FOOTER STYLE SHEET -->
@@ -225,17 +225,17 @@
                     <i class="fa fa-bars menu" aria-hidden="true"></i>
                 </div>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Language</a>
+                    <li><a href="#" id="home">Home</a></li>
+                    <li><a href="#" id="language">Language</a>
                         <ul>
-                            <li><a href="#">English</a>
-                            <li><a href="#">Français</a>
-                            <li><a href="#">Español</a>
+                            <li><a href="#eng" data-reload>English</a>
+                            <li><a href="#fr" data-reload>Français</a>
+                            <li><a href="#es" data-reload>Español</a>
                         </ul>
                     </li>
-                    <li><a href="pages/about.php">About</a></li>
-                    <li><a href="pages/legal.php">Legal</a></li>
-                    <li><a href="pages/contact.php">Contact</a></li>
+                    <li><a href="pages/about.php" id="about">About</a></li>
+                    <li><a href="pages/legal.php" id="legal">Legal</a></li>
+                    <li><a href="pages/contact.php" id="contact">Contact</a></li>
                 </ul>
             </nav>
     
@@ -250,8 +250,8 @@
             <!-- PRESENTATION -->
             <section class="section-Title">
                 <div class="row">
-                    <H1>Welcome to Pharmapendium</H1>
-                    <p class="text-input">
+                    <H1 id="welcome">Welcome to Pharmapendium</H1>
+                    <p class="text-input" id="paragraph">
                         The #1 drug online encyclopedic compendium. This app filters and lists all of the current used medications. Simply select one of the alphabetical letters to begin your search and then scroll for your specific drug of choice.
                     </p>
                 </div>
@@ -296,6 +296,9 @@
         </div>
     </footer>
     <!-- FOOTER SECTION -->
+
+    <!-- ==================== JS INTERNAL  =============================== -->     
+    <script type="text/javascript" src="../js/translations/translations_index.js"></script>
 
     </body>
 

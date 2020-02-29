@@ -38,9 +38,10 @@ ul li ul{
 
 ul li:hover ul{
     display: block;
-    position: absolute;
+    position: absolute ;
     background-color: rgb(163, 0, 196);
-    padding: 20px;
+    padding-right: 50px;
+    padding-left: 10px;
     margin-top: 20px;
     z-index: 1;
 }

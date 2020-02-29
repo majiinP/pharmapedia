@@ -65,32 +65,39 @@
                     <i class="fa fa-bars menu" aria-hidden="true"></i>
                 </div>
                 <ul>
-                    <li><a href="../">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="../pages/legal.php">Legal</a></li>
-                    <li><a href="../pages/contact.php">Contact</a></li>
+                    <li><a href="../" id="home">Home</a></li>
+                    <li><a href="#" id="language">Language</a>
+                        <ul>
+                            <li><a href="#eng" data-reload>English</a>
+                            <li><a href="#fr" data-reload>Français</a>
+                            <li><a href="#es" data-reload>Español</a>
+                        </ul>
+                    </li>
+                    <li><a href="#" id="about">About</a></li>
+                    <li><a href="../pages/legal.php" id="legal">Legal</a></li>
+                    <li><a href="../pages/contact.php" id="contact">Contact</a></li>
                 </ul>
             </nav>
 
             <div class="container">
                 
-                <h1>About Us</h1>
+                <h1 id="title">About Us</h1>
                 <br>
                 <div class="nav-cards">
 
-                <p>Pharmacy (from the Greek φάρμακον 'pharmakon' = drug) is the health profession that links the health sciences with the chemical sciences, and it is charged with ensuring the safe and effective use of medication.</p>
+                <p id="about_text">Pharmacy (from the Greek φάρμακον 'pharmakon' = drug) is the health profession that links the health sciences with the chemical sciences, and it is charged with ensuring the safe and effective use of medication.</p>
                 <br>
-                <p>The scope of pharmacy practice includes more traditional roles such as compounding and dispensing medications, and it also includes more modern services related to patient care, including clinical services, reviewing medications for safety and efficacy, and providing drug information. Pharmacists, therefore, are the experts on drug therapy and are the primary health professionals who optimize medication use to provide patients with positive health outcomes. Pharmacy is also the term for an establishment where pharmacy (in the first sense) is practice (synonym: drugstore). The first pharmacy in Europe (still working) was opened in 1241 in Trier, Germany.[citation needed]</p>
+                <p id="about_text_2">The scope of pharmacy practice includes more traditional roles such as compounding and dispensing medications, and it also includes more modern services related to patient care, including clinical services, reviewing medications for safety and efficacy, and providing drug information. Pharmacists, therefore, are the experts on drug therapy and are the primary health professionals who optimize medication use to provide patients with positive health outcomes. Pharmacy is also the term for an establishment where pharmacy (in the first sense) is practice (synonym: drugstore). The first pharmacy in Europe (still working) was opened in 1241 in Trier, Germany.</p>
                 <br>    
-                <p>The word pharmacy is derived from its root word pharma which was a term used since the 1400–1600s. In addition to pharma responsibilities, the pharma offered general medical advice and a range of services that are now performed solely by other specialist practitioners, such as surgery and midwifery. The pharma (as it was referred to) often operated through a retail shop which, in addition to ingredients for medicines, sold tobacco and patent medicines. The pharmas also used many other herbs not listed.</p>
+                <p id="about_text_3">The word pharmacy is derived from its root word pharma which was a term used since the 1400–1600s. In addition to pharma responsibilities, the pharma offered general medical advice and a range of services that are now performed solely by other specialist practitioners, such as surgery and midwifery. The pharma (as it was referred to) often operated through a retail shop which, in addition to ingredients for medicines, sold tobacco and patent medicines. The pharmas also used many other herbs not listed.</p>
                 <br>    
-                <p>In its investigation of herbal and chemical ingredients, the work of the pharma may be regarded as a precursor of the modern sciences of chemistry and pharmacology, prior to the formulation of the scientific method.</p>
+                <p id="about_text_4">In its investigation of herbal and chemical ingredients, the work of the pharma may be regarded as a precursor of the modern sciences of chemistry and pharmacology, prior to the formulation of the scientific method.</p>
                 <br>
-                <p>Welcome to Pharmapendium, your number one source for all informations related to pharmaceutical products. We're dedicated to providing you the very best of pharmaceutical knowledge, with an emphasis on reliability, precision and information.</p>
+                <p id="about_text_5">Welcome to Pharmapendium, your number one source for all informations related to pharmaceutical products. We're dedicated to providing you the very best of pharmaceutical knowledge, with an emphasis on reliability, precision and information.</p>
                 <br>
-                <p>Founded in 2019 by Pescaru Softwares, pharmapendium has come a long way from its beginnings. When Pescaru Softwares first started out, the passion for world wide pharmaceutical knowledge drove them to start this website.</p>    
+                <p id="about_text_6">Founded in 2019 by Pescaru Softwares, pharmapendium has come a long way from its beginnings. When Pescaru Softwares first started out, the passion for world wide pharmaceutical knowledge drove them to start this website.</p>    
                 <br>        
-                <p>We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
+                <p id="about_text_7">We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
 
                 </div>
                 
@@ -105,5 +112,8 @@
     </footer>
     <!-- FOOTER SECTION -->
         
+    <!-- ==================== JS INTERNAL  =============================== -->     
+    <script type="text/javascript" src="../js/translations/translation_about.js"></script>
+
     </body>
 </html>
