@@ -10,7 +10,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Pharmapendium</title>
+        <title>Pharmacompendium</title>
 
         <!-- ==================== FAVICON =============================== -->
         <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -37,7 +37,7 @@
         <!-- BUTTONS STYLE -->
         <link rel="stylesheet" type="text/css" href="../css/buttons.css">
          <!-- OVERLAY STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="../css/Overlay.css">
+        <link rel="stylesheet" type="text/css" href="../css/overlay.css">
          <!-- GENERAL STYLE SHEET -->
         <link rel="stylesheet" type="text/css" href="../css/GeneralStylesheet.css">
         <!-- FOOTER STYLE SHEET -->
@@ -250,7 +250,7 @@
             <!-- PRESENTATION -->
             <section class="section-Title">
                 <div class="row">
-                    <H1 id="welcome">Welcome to Pharmapendium</H1>
+                    <H1 id="welcome">Welcome to Pharmacompendium</H1>
                     <p class="text-input" id="paragraph">
                         The #1 drug online encyclopedic compendium. This app filters and lists all of the current used medications. Simply select one of the alphabetical letters to begin your search and then scroll for your specific drug of choice.
                     </p>

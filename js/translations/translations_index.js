@@ -8,7 +8,7 @@ var language = {
         legal: "Legal",
         contact: "Contact",
 
-        welcome: "Welcome to Pharmapendium",
+        welcome: "Welcome to Pharmacompendium",
 
         text_input: "The #1 drug online encyclopedic compendium. This app filters and lists all of the current used medications. Simply select one of the alphabetical letters to begin your search and then scroll for your specific drug of choice."
     },
@@ -20,7 +20,7 @@ var language = {
         legal: "Legal",
         contact: "Contact",
 
-        welcome: "Bienvenue à Pharmapendium",
+        welcome: "Bienvenue à Pharmacompendium",
 
         text_input: "Recueil encyclopédique en ligne sur les médicaments n ° 1. Cette application filtre et répertorie tous les médicaments actuellement utilisés. Sélectionnez simplement l'une des lettres alphabétiques pour commencer votre recherche, puis faites défiler jusqu'au medicament de votre choix."
         
@@ -34,7 +34,7 @@ var language = {
         legal: "Legal",
         contact: "Contacto",
 
-        welcome: "Bienvenido a Pharmapendium",
+        welcome: "Bienvenido a Pharmacompendium",
 
         text_input: "El compendio enciclopédico en línea de drogas # 1. Esta aplicación filtra y enumera todos los medicamentos usados ​​actuales. Simplemente seleccione una de las letras alfabéticas para comenzar su búsqueda y luego desplácese por su medicamento específico de elección."
     },

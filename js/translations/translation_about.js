@@ -18,9 +18,9 @@ var language = {
 
         about_text_4: "In its investigation of herbal and chemical ingredients, the work of the pharma may be regarded as a precursor of the modern sciences of chemistry and pharmacology, prior to the formulation of the scientific method.",
 
-        about_text_5: "Welcome to Pharmapendium, your number one source for all informations related to pharmaceutical products. We're dedicated to providing you the very best of pharmaceutical knowledge, with an emphasis on reliability, precision and information.",
+        about_text_5: "Welcome to Pharmacompendium, your number one source for all informations related to pharmaceutical products. We're dedicated to providing you the very best of pharmaceutical knowledge, with an emphasis on reliability, precision and information.",
 
-        about_text_6: "Founded in 2019 by Pescaru Softwares, pharmapendium has come a long way from its beginnings. When Pescaru Softwares first started out, the passion for world wide pharmaceutical knowledge drove them to start this website.",
+        about_text_6: "Founded in 2019 by Pescaru Softwares, Pharmacompendium has come a long way from its beginnings. When Pescaru Softwares first started out, the passion for world wide pharmaceutical knowledge drove them to start this website.",
 
         about_text_7: "We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.",
     },
@@ -42,9 +42,9 @@ var language = {
 
         about_text_4: "Dans son enquête sur les ingrédients à base de plantes et chimiques, le travail de la pharma peut être considéré comme un précurseur des sciences modernes de la chimie et de la pharmacologie, avant la formulation de la méthode scientifique.",
 
-        about_text_5: "Bienvenue sur Pharmapendium, votre source numéro un pour toutes les informations relatives aux produits pharmaceutiques. Nous nous engageons à vous fournir le meilleur des connaissances pharmaceutiques, en mettant l'accent sur la fiabilité, la précision et l'information.",
+        about_text_5: "Bienvenue sur Pharmacompendium, votre source numéro un pour toutes les informations relatives aux produits pharmaceutiques. Nous nous engageons à vous fournir le meilleur des connaissances pharmaceutiques, en mettant l'accent sur la fiabilité, la précision et l'information.",
 
-        about_text_6: "Fondée en 2019 par Pescaru Softwares, pharmapendium a parcouru un long chemin depuis ses débuts. Lorsque Pescaru Softwares a commencé, la passion pour la connaissance pharmaceutique mondiale les a poussés à créer ce site Web.",
+        about_text_6: "Fondée en 2019 par Pescaru Softwares, Pharmacompendium a parcouru un long chemin depuis ses débuts. Lorsque Pescaru Softwares a commencé, la passion pour la connaissance pharmaceutique mondiale les a poussés à créer ce site Web.",
 
         about_text_7: "Nous espérons que vous apprécierez nos produits autant que nous aimerons vous les offrir. Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter.",
         
@@ -68,9 +68,9 @@ var language = {
 
         about_text_4: "En su investigación de ingredientes herbales y químicos, el trabajo de la industria farmacéutica puede verse como un precursor de las ciencias modernas de la química y la farmacología, antes de la formulación del método científico.",
 
-        about_text_5: "Bienvenido a Pharmapendium, su fuente número uno para toda la información farmacéutica. Estamos comprometidos a brindarle lo mejor en conocimiento farmacéutico, con énfasis en la confiabilidad, precisión e información.",
+        about_text_5: "Bienvenido a Pharmacompendium, su fuente número uno para toda la información farmacéutica. Estamos comprometidos a brindarle lo mejor en conocimiento farmacéutico, con énfasis en la confiabilidad, precisión e información.",
 
-        about_text_6: "Fundado en 2019 por Pescaru Softwares, el farmapendio ha recorrido un largo camino desde su inicio. Cuando comenzó el software Pescaru, la pasión por el conocimiento farmacéutico global los llevó a crear este sitio web.",
+        about_text_6: "Fundado en 2019 por Pescaru Softwares, el Pharmacompendium ha recorrido un largo camino desde su inicio. Cuando comenzó el software Pescaru, la pasión por el conocimiento farmacéutico global los llevó a crear este sitio web.",
 
         about_text_7: "Esperamos que disfrute de nuestros productos tanto como nos gustaría ofrecerlos. Si tiene alguna pregunta o comentario, no dude en contactarnos.",
     },
