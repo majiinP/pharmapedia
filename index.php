@@ -25,7 +25,7 @@
         <!-- ==================== JS INTERNAL  =============================== -->
         <script type="text/javascript" src="../js/medication-appear.js"></script>
         <script type="text/javascript" src="../js/reponsive-menu.js"></script>
-        <script type="text/javascript" src="../js/cookie-banner.js"></script>
+        <script type="text/javascript" src="../js/Cookie-banner.js"></script>
 
         <!-- ==================== CSS INTERNAL =============================== -->
         <!-- NAV-MENU STYLE SHEET -->
