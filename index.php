@@ -25,7 +25,7 @@
         <!-- ==================== JS INTERNAL  =============================== -->
         <script type="text/javascript" src="../js/medication-appear.js"></script>
         <script type="text/javascript" src="../js/reponsive-menu.js"></script>
-        <script type="text/javascript" src="../js/Cookie-banner.js"></script>
+        <script type="text/javascript" src="../js/cookie-banner.js"></script>
 
         <!-- ==================== CSS INTERNAL =============================== -->
         <!-- NAV-MENU STYLE SHEET -->
@@ -37,7 +37,7 @@
         <!-- BUTTONS STYLE -->
         <link rel="stylesheet" type="text/css" href="../css/buttons.css">
          <!-- OVERLAY STYLE SHEET -->
-        <link rel="stylesheet" type="text/css" href="../css/overlay.css">
+        <link rel="stylesheet" type="text/css" href="../css/Overlay.css">
          <!-- GENERAL STYLE SHEET -->
         <link rel="stylesheet" type="text/css" href="../css/GeneralStylesheet.css">
         <!-- FOOTER STYLE SHEET -->
