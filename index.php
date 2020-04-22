@@ -10,7 +10,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Pharmacompendium</title>
+        <title>Pharmacy compendium</title>
 
         <!-- ==================== FAVICON =============================== -->
         <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -250,7 +250,7 @@
             <!-- PRESENTATION -->
             <section class="section-Title">
                 <div class="row">
-                    <H1 id="welcome">Welcome to Pharmacompendium</H1>
+                    <H1 id="welcome">Welcome to the pharmacy compendium</H1>
                     <p class="text-input" id="paragraph">
                         The #1 drug online encyclopedic compendium. This app filters and lists all of the current used medications. Simply select one of the alphabetical letters to begin your search and then scroll for your specific drug of choice.
                     </p>

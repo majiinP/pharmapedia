@@ -93,9 +93,9 @@
                 <br>    
                 <p id="about_text_4">In its investigation of herbal and chemical ingredients, the work of the pharma may be regarded as a precursor of the modern sciences of chemistry and pharmacology, prior to the formulation of the scientific method.</p>
                 <br>
-                <p id="about_text_5">Welcome to Pharmapendium, your number one source for all informations related to pharmaceutical products. We're dedicated to providing you the very best of pharmaceutical knowledge, with an emphasis on reliability, precision and information.</p>
+                <p id="about_text_5">Welcome to the pharmacy compendium, your number one source for all informations related to pharmaceutical products. We're dedicated to providing you the very best of pharmaceutical knowledge, with an emphasis on reliability, precision and information.</p>
                 <br>
-                <p id="about_text_6">Founded in 2019 by Pescaru Softwares, pharmapendium has come a long way from its beginnings. When Pescaru Softwares first started out, the passion for world wide pharmaceutical knowledge drove them to start this website.</p>    
+                <p id="about_text_6">Founded in 2019 by Pescaru Softwares, the pharmacy compendium has come a long way from its beginnings. When Pescaru Softwares first started out, the passion for world wide pharmaceutical knowledge drove them to start this website.</p>    
                 <br>        
                 <p id="about_text_7">We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
 
