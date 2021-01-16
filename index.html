@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- ==================== CSS EXTERNAL =============================== -->
+    <link href="./css/font_awesome/all.min.css" rel="stylesheet">
+
+    <!-- ==================== CSS INTERNAL =============================== -->
+    <!-- General Style Sheet -->
+    <link rel="stylesheet" type="text/css" href="./css/gs.css">
+    <!-- LOADING CIRCLE STYLE SHEET -->
+    <link rel="stylesheet" type="text/css" href="./css/progress-loader.css">
+    <!-- NAVIGATION MENU STYLE SHEET -->
+    <link rel="stylesheet" type="text/css" href="./css/nav-menu.css">
+    <!-- SEARCH BAR STYLE SHEET -->
+    <link rel="stylesheet" type="text/css" href="./css/searchbar.css">
+    <!-- BUTTONS STYLE -->
+    <link rel="stylesheet" type="text/css" href="./css/buttons.css">
+    <!-- OVERLAY MENU STYLE -->
+    <link rel="stylesheet" type="text/css" href="./css/overlayMenu.css">
+    <!-- CARDS (MEDICATION DESCRIPTION) -->
+    <link rel="stylesheet" type="text/css" href="./css/card-description.css">
+    <!-- MEDIA QUERIES -->
+    <link rel="stylesheet" type="text/css" href="./css/media-queries.css">
+
+    <title>Pharmacy Compendium</title>
+</head>
+<body>
+    <div id="myNav1" class="overlay">
+        <!-- Button to close the overlay navigation -->
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    </div>
+
+    <div id="loader" class="loader">  
+    </div>
+
+    <nav id="navbar">
+    </nav>
+
+    <div class="title">
+        <div class="search-box">
+            <input type="text" class="search-txt" id="search" onkeyup="Function()" placeholder="Search..." title="name">
+            <a class="search-btn">
+                <img class="search-img" src="./img/search.svg" alt="search">
+            </a>
+        </div>
+        <ul class="list-group" id="list"></ul>
+        <div class="row">
+            <h1 id="welcome">Welcome to the pharmacy compendium</h1>
+            <p class="text-input" id="paragraph">
+                The #1 drug online encyclopedic compendium. This app filters and lists all of the current used medications. Simply select one of the alphabetical letters to begin your search and then scroll for your specific drug of choice.
+            </p>
+        </div>
+    </div>
+
+    <div class="buttonsSection" id="alphabetButtons">
+        <button id="a-btn" class="button alphabet-button" onclick="handleClick('a'); pageSwap();">A</button>
+        <button id="b-btn" class="button alphabet-button" onclick="handleClick('b'); pageSwap();">B</button>
+        <button id="b-btn" class="button alphabet-button" onclick="handleClick('c'); pageSwap();">C</button>
+    </div>
+    <main id="main">
+        
+    </main>
+    <div id="app"></div>
+    <script type="text/javascript" src="./js/loadEffect.js"></script>
+    <script type="text/javascript" src="./js/medicationCompendium.js"></script>
+    <script type="text/javascript" src="./js/nav-switcher.js"></script>
+    <script type="text/javascript" src="./js/pageSwitcher.js"></script>
+    <script type="text/javascript" src="./js/search.js"></script>
+</body>
+</html>

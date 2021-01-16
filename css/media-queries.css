@@ -1,0 +1,60 @@
+@media only screen and (min-width: 150px) and  (max-width: 767px){
+    .nav-list{
+        text-align: center;
+        font-size: 75%;
+        width: auto;
+    }
+
+    .nav-list li{
+        padding: 15px;
+    }
+    
+    .search-box{
+        transform: translate(-50%, 15%);
+    }
+
+    .search-txt{
+        width: 65%;
+    }
+    
+    .row {
+        font-size: 75%;
+    }
+    .row h1{
+        font-size: x-large;
+    }
+
+    .grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .card{
+        height: 250px;
+    }
+
+    .page h1{
+        width: 75%;
+        margin: auto;
+        font-size: 75%;
+        font-size: x-large;
+    }
+}
+
+@media only screen and (min-width: 150px) and (max-width: 767px) and (orientation: landscape){
+    .title{
+        width: 75%;
+    }
+
+    nav{
+        width: 12%;
+        height: 100%;
+        position: fixed;
+        top: 0%;
+    }
+
+    .pages{
+        width: 75%;
+        margin: auto;
+    }
+    
+}
